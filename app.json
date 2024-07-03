@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "VAJIRA-MD=HcsmRI6a#jqcS-6B8Na37JyrRKp8scYPC9y-g8mpT-j48yNTndh4"
+            "value": "VAJIRA-MD=SFFAnaQY#WjGfyJNevTsr27GevpJEpoAExhxyuMiq2gQZPjBV8_Y"
         },
     "COMMAND_TYPE": {
             "description": "Put here (button or nonbutton) to change bot command mode",
@@ -19,7 +19,7 @@
     "OWNER_NUMBER": {
             "description": "Put here your number without +",
             "required": true,
-            "value": "916260273863"
+            "value": "916262815528"
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
